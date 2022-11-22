@@ -1,6 +1,4 @@
-# VS-Code-Extensions-
-
-##Best VS Code Extensions 
+# Best VS Code Extensions 
 
 - AREPL for python - Almenon
 - Auto Rename Tag - Jun Han
